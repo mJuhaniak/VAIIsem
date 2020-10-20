@@ -6,15 +6,6 @@
     color: white;
 }
 
-/* Increase the font size of the heading */
-.header h1 {
-    font-size: 40px;
-    color: black;
-}
-
-.header a img {
-
-}
 .card {
     float: left;
     margin-top: 5%;
@@ -40,3 +31,4 @@
     left: 50%;
     transform: translate(-50%, -50%);
 }
+

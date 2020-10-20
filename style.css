@@ -17,11 +17,14 @@
 
 /* Centered text */
 .centered {
-    font-size: 40px;
+    font-size: 2vw;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+.centered h1 {
+    font-size: 4vw;
 }
 
 .hore {

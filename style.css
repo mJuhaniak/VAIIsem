@@ -1,0 +1,42 @@
+/* Header/logo Title */
+.header {
+    padding: 20px;
+    text-align: center;
+    background: #B3D89C;
+    color: white;
+}
+
+/* Increase the font size of the heading */
+.header h1 {
+    font-size: 40px;
+    color: black;
+}
+
+.header a img {
+
+}
+.card {
+    float: left;
+    margin-top: 5%;
+    margin-left: 18%;
+    margin-bottom: 5%;
+    width: 20rem;
+}
+
+.content {
+    position: absolute; /* Position the background text */
+    background: rgb(0, 0, 0); /* Fallback color */
+    background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+    color: #f1f1f1; /* Grey text */
+    width: 100%; /* Full width */
+    padding: 20px; /* Some padding */
+}
+
+/* Centered text */
+.centered {
+    font-size: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
